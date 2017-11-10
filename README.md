@@ -9,7 +9,7 @@ Trident is an open source project for bootstrapping a production ready [Kubernet
 We use [Terraform] to bring up raw machines and related network configurations. Then we use [Ansible] to deploy the kubernetes cluster onto those machines.
 
 # Asciinema recording of the whole build
-https://asciinema.org/a/r15Q5nbKunvhZ3BkUhNfWtBYP
+[![demo](https://asciinema.org/a/r15Q5nbKunvhZ3BkUhNfWtBYP.png)](https://asciinema.org/a/r15Q5nbKunvhZ3BkUhNfWtBYP?autoplay=1)
 
 ## Main Features
 Terraform
